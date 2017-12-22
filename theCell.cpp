@@ -1,5 +1,4 @@
 // Osbaldo Esquivel
-// CS 225
 // 15JAN2014
 
 #include <iostream>
