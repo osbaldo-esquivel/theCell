@@ -1,6 +1,6 @@
 # Game of Life
 
-## This program is based on Conway's Game of Life. You will be
+This program is based on Conway's Game of Life. You will be
 asked the height and width of a grid to generate a living map.
 The map will consist of living and dead cells that will die or
 regenerate according to the following rules:
